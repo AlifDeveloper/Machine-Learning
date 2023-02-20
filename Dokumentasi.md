@@ -2,5 +2,4 @@
 Dokumentasi dan Tugas Mata Kuliah Machine Learning
 
 
-
-ddd
+Mantap kandaa
