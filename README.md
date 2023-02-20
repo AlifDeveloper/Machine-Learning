@@ -33,12 +33,12 @@ Perbedaan utama antara supervised dan unsupervised learning adalah bahwa supervi
 
 # Apa yang dimaksud Data Cleaning, Exploratory Data Analysis, Data Visualization, Feature Engineering, dan Evaluation Metrics?
 
-- 1.	Data Cleaning: Data Cleaning atau pembersihan data adalah proses memeriksa, memperbaiki, dan menghapus data yang tidak akurat, tidak lengkap, atau tidak relevan dari dataset. Tujuannya adalah untuk memastikan bahwa data yang akan digunakan untuk analisis akurat dan konsisten.
+- Data Cleaning: Data Cleaning atau pembersihan data adalah proses memeriksa, memperbaiki, dan menghapus data yang tidak akurat, tidak lengkap, atau tidak relevan dari dataset. Tujuannya adalah untuk memastikan bahwa data yang akan digunakan untuk analisis akurat dan konsisten.
 
-- 2.	Exploratory Data Analysis: Exploratory Data Analysis atau EDA adalah proses memeriksa dan memahami data sebelum melakukan analisis lebih lanjut. Tujuan utamanya adalah untuk menemukan pola, anomali, dan hubungan dalam data, serta untuk mengevaluasi asumsi yang mendasari analisis.
+- Exploratory Data Analysis: Exploratory Data Analysis atau EDA adalah proses memeriksa dan memahami data sebelum melakukan analisis lebih lanjut. Tujuan utamanya adalah untuk menemukan pola, anomali, dan hubungan dalam data, serta untuk mengevaluasi asumsi yang mendasari analisis.
 
-- 3.	Data Visualization: Data Visualization adalah proses menciptakan grafik dan visualisasi yang memperlihatkan data secara visual. Tujuannya adalah untuk membantu pemahaman data dengan cara yang lebih intuitif dan efektif.
+- Data Visualization: Data Visualization adalah proses menciptakan grafik dan visualisasi yang memperlihatkan data secara visual. Tujuannya adalah untuk membantu pemahaman data dengan cara yang lebih intuitif dan efektif.
 
-- 4.	Feature Engineering: Feature Engineering adalah proses memilih, mengubah, dan menambahkan fitur atau variabel dalam dataset yang akan digunakan dalam analisis. Tujuannya adalah untuk meningkatkan kinerja model dan meningkatkan pemahaman tentang data.
+- Feature Engineering: Feature Engineering adalah proses memilih, mengubah, dan menambahkan fitur atau variabel dalam dataset yang akan digunakan dalam analisis. Tujuannya adalah untuk meningkatkan kinerja model dan meningkatkan pemahaman tentang data.
 
-- 5.	Evaluation Metrics: Evaluation Metrics atau metrik evaluasi adalah ukuran kuantitatif yang digunakan untuk mengevaluasi kinerja model atau hasil analisis. Contoh metrik evaluasi termasuk akurasi, presisi, recall, F1-score, dan R-squared. Tujuan utamanya adalah untuk menilai sejauh mana model atau analisis berhasil dalam memecahkan masalah yang diberikan.
+- Evaluation Metrics: Evaluation Metrics atau metrik evaluasi adalah ukuran kuantitatif yang digunakan untuk mengevaluasi kinerja model atau hasil analisis. Contoh metrik evaluasi termasuk akurasi, presisi, recall, F1-score, dan R-squared. Tujuan utamanya adalah untuk menilai sejauh mana model atau analisis berhasil dalam memecahkan masalah yang diberikan.
